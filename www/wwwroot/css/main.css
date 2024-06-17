@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.d-flex.flex-column {
+    min-height: 100vh;
+}
+
+
+
+footer {
+    margin-top: auto;
+}
+
+p{
+    text-align: justify;
+}
